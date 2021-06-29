@@ -21,7 +21,7 @@ begin
              begin
              if (Capicua(Num)) then
                 Cs := cs + 1 ;
-             writeln(num);
+             writeln(num);  // debuggin
                   if cs = 1 then
                      begin
                           C1 :=num;
@@ -37,7 +37,7 @@ begin
                                 C3 := num;
                                 cs :=cs+1
                            end;
-                  writeln(c1:0:0,'    ',c2:0:0,'    ',c3:0:0,'    ',cs);
+                  writeln(c1:0:0,'    ',c2:0:0,'    ',c3:0:0,'    ',cs);  // debuggin
                   if cs = 6 then
                      break;
 
