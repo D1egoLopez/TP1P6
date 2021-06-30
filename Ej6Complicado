@@ -1,6 +1,6 @@
 program TP1LopezNoelRamirezSaravi;
 
-uses Varios, sysutils, Classes, LCLIntf;
+uses Varios, LCLIntf;
 
 type
   cuadrantes = (origen=0,Primer_Cuadrante,Segundo_Cuadrante, Tercer_Cuadrante, Cuarto_Cuadrante, Eje_X, Eje_Y);
