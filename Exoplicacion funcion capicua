@@ -1,0 +1,23 @@
+program Project1;
+
+
+var
+
+  capicua:boolean;
+  aux,antn, n:integer;
+
+begin
+readln(n);
+aux:=0; antn:=n;
+while n<>0 do
+  begin
+       aux:=n mod 10 + aux*10;      
+       n:=n div 10;
+       writeln('n=',n, '    ','aux=', aux, '    ','antn=' ,antn);     //con esta linea se ve claramente que es lo que hace el while y como deduce si es o no capicua
+  end;
+capicua:= antn = aux;
+
+readln();
+
+end.
+                         
