@@ -1,0 +1,15 @@
+las distancias entre los puntos son:
+(9,24)-(5,5)       19.42
+(5,5)-(47,-16)       46.96
+(47,-16)-(-27,15)       80.23
+(-27,15)-(13,20)       40.31
+(13,20)-(-15,-13)       43.28
+(-15,-13)-(32,46)       75.43
+
+Distancia promedio: 50.9377
+
+El punto mas cercano al origen es el: (5,5) a una distancia de: 7.07
+y se encuentra en el cuadrante #1
+
+El punto mas lejano al origen es el: (47,-16) a una distancia de: 49.65
+y se encuentra en el cuadrante #4
